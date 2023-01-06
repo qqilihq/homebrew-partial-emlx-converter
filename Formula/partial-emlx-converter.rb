@@ -3,8 +3,8 @@ require "language/node"
 class PartialEmlxConverter < Formula
   desc "Convert .emlx and .partial.emlx files created by Apple’s Mail.app to .eml"
   homepage "https://github.com/qqilihq/partial-emlx-converter#readme"
-  url "https://registry.npmjs.org/partial-emlx-converter/-/partial-emlx-converter-3.0.3.tgz"
-  sha256 "ffb533b83bd8657e989b687a8694dfceee298de6d2cfcb6f51a233564c0d3c1d"
+  url "https://registry.npmjs.org/partial-emlx-converter/-/partial-emlx-converter-3.0.4.tgz"
+  sha256 "646e01e64b94e859dd05544362668432984f246b96a1b4b584b0549dda464281"
   license "MIT"
 
   livecheck do

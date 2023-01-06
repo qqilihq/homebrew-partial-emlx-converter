@@ -14,4 +14,4 @@ See [Node for Formula Authors](https://docs.brew.sh/Node-for-Formula-Authors) fo
 
 ---
 
-Copyright (c) 2020 Philipp Katz
+Copyright (c) 2020 – 2023 Philipp Katz
